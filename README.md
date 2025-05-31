@@ -1,5 +1,4 @@
 # Background text
-## Опис
 
 **Background text** — is a desktop application in Python with a graphical interface that allows you to create beautifully designed notes or pages with text overlaid on a selected background image. You can customize the font, indentation, line spacing, and font size, and immediately view the result in a preview window.
 
